@@ -1,4 +1,4 @@
-﻿##Lesson 1
+##Lesson 1
 
 1. Machine code is instructions for computers.
 2. Source code is written in human language and compiled into machine code.
